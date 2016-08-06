@@ -8,7 +8,7 @@ public class DemoA {
 	@Test
 	public void testA(){
 		WebDriver driver = new FirefoxDriver();
-		driver.get("https://www.facebook.com/");
+		driver.get("https://www.google.com/");
 		driver.quit();
 	}
 
